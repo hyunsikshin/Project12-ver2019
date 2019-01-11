@@ -6,7 +6,7 @@ Doing 12 projects in 12 months
 12개월동안 12개의 프로젝트 하기
 
 > Web
-1. [Momentum](https://github.com/HyeonSik/)
+1. [Momentum](https://github.com/hyunsikshin/Momentum)
 > GraphQL + React.js
 2. [MovieQL-Server](https://github.com/hyunsikshin/movieql)
 3. [MovieQL-Client](https://github.com/hyunsikshin/movieql-client)
